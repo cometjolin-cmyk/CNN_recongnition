@@ -8,8 +8,12 @@
 
 ## 專案主題
 本專案由課堂中老師提供的**單通道灰階人臉影像分類模型**出發，透過自主更換資料庫與修改程式碼，將模型擴展為可處理**三通道 RGB 多類別彩色影像（貓咪）**，以驗證模型對不同資料特性與輸入維度的適應能力。
+資料庫：https://drive.google.com/drive/folders/1cdeGu41ZecdKT7xNV_XXen6Fw5x_-b4O?usp=share_link
+
+
 
 ---
+
 
 ## 核心迭代重點
 
